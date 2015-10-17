@@ -29,18 +29,13 @@ UIImage(flagImageWithCountryCode: NSLocale.autoupdatingCurrentLocale().objectFor
 
 To be able to open the Sketch-file, please use the [Sketch Beta](http://www.bohemiancoding.com/sketch/beta/).
 
-## License
-
-FlagKit is released under the MIT license. See
-[LICENSE](https://github.com/madebybowtie/FlagKit/blob/master/LICENSE).
-
 ## More Info
 
 Have a question? Please [open an issue](https://github.com/madebybowtie/FlagKit/issues/new)!
 
 ## Reference
 
-This set currentry includes the 181 flags below:
+This set currentry includes the 184 flags below:
 
 | Flag | Code | Region |
 | :-------------: | :-------------: | ------------- |
@@ -120,6 +115,7 @@ This set currentry includes the 181 flags below:
 | ![GR](https://github.com/madebybowtie/FlagKit/blob/master/Images/GR@2x.png) | GR | Greece |
 | ![GT](https://github.com/madebybowtie/FlagKit/blob/master/Images/GT@2x.png) | GT | Guatemala |
 | ![GW](https://github.com/madebybowtie/FlagKit/blob/master/Images/GW@2x.png) | GW | Guinea-Bissau |
+| ![HN](https://github.com/madebybowtie/FlagKit/blob/master/Images/HK@2x.png) | HK | Hong Kong |
 | ![HN](https://github.com/madebybowtie/FlagKit/blob/master/Images/HN@2x.png) | HN | Honduras |
 | ![HR](https://github.com/madebybowtie/FlagKit/blob/master/Images/HR@2x.png) | HR | Croatia |
 | ![HT](https://github.com/madebybowtie/FlagKit/blob/master/Images/HT@2x.png) | HT | Haiti |
@@ -148,6 +144,7 @@ This set currentry includes the 181 flags below:
 | ![LB](https://github.com/madebybowtie/FlagKit/blob/master/Images/LB@2x.png) | LB | Lebanon |
 | ![LC](https://github.com/madebybowtie/FlagKit/blob/master/Images/LC@2x.png) | LC | Saint Lucia |
 | ![LI](https://github.com/madebybowtie/FlagKit/blob/master/Images/LI@2x.png) | LI | Liechtenstein |
+| ![LI](https://github.com/madebybowtie/FlagKit/blob/master/Images/LK@2x.png) | LK | Sri Lanka |
 | ![LR](https://github.com/madebybowtie/FlagKit/blob/master/Images/LR@2x.png) | LR | Liberia |
 | ![LS](https://github.com/madebybowtie/FlagKit/blob/master/Images/LS@2x.png) | LS | Lesotho |
 | ![LT](https://github.com/madebybowtie/FlagKit/blob/master/Images/LT@2x.png) | LT | Lithuania |
@@ -177,6 +174,7 @@ This set currentry includes the 181 flags below:
 | ![NI](https://github.com/madebybowtie/FlagKit/blob/master/Images/NI@2x.png) | NI | Nicaragua |
 | ![NL](https://github.com/madebybowtie/FlagKit/blob/master/Images/NL@2x.png) | NL | Netherlands |
 | ![NO](https://github.com/madebybowtie/FlagKit/blob/master/Images/NO@2x.png) | NO | Norway |
+| ![NO](https://github.com/madebybowtie/FlagKit/blob/master/Images/NP@2x.png) | NP | Nepal |
 | ![NZ](https://github.com/madebybowtie/FlagKit/blob/master/Images/NZ@2x.png) | NZ | New Zealand |
 | ![OM](https://github.com/madebybowtie/FlagKit/blob/master/Images/OM@2x.png) | OM | Oman |
 | ![PA](https://github.com/madebybowtie/FlagKit/blob/master/Images/PA@2x.png) | PA | Panama |
@@ -229,3 +227,8 @@ This set currentry includes the 181 flags below:
 | ![WS](https://github.com/madebybowtie/FlagKit/blob/master/Images/WS@2x.png) | WS | Samoa |
 | ![YE](https://github.com/madebybowtie/FlagKit/blob/master/Images/YE@2x.png) | YE | Yemen |
 | ![ZA](https://github.com/madebybowtie/FlagKit/blob/master/Images/ZA@2x.png) | ZA | South Africa |
+
+## License
+
+FlagKit is released under the MIT license. See
+[LICENSE](https://github.com/madebybowtie/FlagKit/blob/master/LICENSE).
